@@ -8,7 +8,7 @@ It includes concepts, commands, and hands-on examples for quick revision.
 - 🐳 [Docker](./docker.md)
 - ☁️ [AWS](./aws.md)
 - ☸️ [Kubernetes](./kubernetes.md)
-- 🔧 [Git & GitHub](./git-github.md)
+- 🔧 [Git & GitHub](./github.md)
 - 🚀 [Jenkins](./jenkins.md)
 
 ## 📌 Purpose
